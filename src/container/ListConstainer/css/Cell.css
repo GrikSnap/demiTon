@@ -1,0 +1,15 @@
+.Cell{
+    min-width: 300px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.Cell-title{
+    display: block;
+}
+
+.Cell-container{
+    margin-top: 20%;
+}
+

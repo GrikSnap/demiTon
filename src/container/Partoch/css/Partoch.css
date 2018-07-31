@@ -1,0 +1,16 @@
+body {
+    font-family: 'Trebuchet MS';
+}
+
+.Partoch-textarea {
+    height: 400px;
+}
+
+.Partoch-button {
+    background: #1800f08e;
+    color: white;
+}
+
+.tab-content{
+    padding: 10px;
+}

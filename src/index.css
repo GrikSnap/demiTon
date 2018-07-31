@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-banner {
+  background: white;
+  padding: 20px;
+}
+
+.App-footer {
+  background: white;
+  padding: 20px;
+  margin-top: 100px;
+}
+
+.App-title {
+  font-size: 1.5em;
+  background-color: #222;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-button {
+  background-color: #1800f08e;
+  width: 200px;
+  margin: 10px;
+  border: none;
+  color: white;
+  font-size: large;
+}
